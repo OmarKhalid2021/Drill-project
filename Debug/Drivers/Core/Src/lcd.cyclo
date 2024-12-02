@@ -1,0 +1,10 @@
+../Core/Src/lcd.c:20:13:GPIO_Config	1
+../Core/Src/lcd.c:46:13:I2C_Config	1
+../Core/Src/lcd.c:71:6:LCD_Send_Cmd	3
+../Core/Src/lcd.c:113:6:LCD_Send_Data	3
+../Core/Src/lcd.c:155:6:LCD_Init	1
+../Core/Src/lcd.c:193:6:LCD_Send_String	2
+../Core/Src/lcd.c:207:6:LCD_Clear_Then_Display	1
+../Core/Src/lcd.c:220:6:LCD_Send_String_On_Line1	1
+../Core/Src/lcd.c:232:6:LCD_Send_String_On_Line2	1
+../Core/Src/lcd.c:244:6:LCD_Display_Long_Message	6
